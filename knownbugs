@@ -1,0 +1,24 @@
+Hello everyone, this is a list of some of the bugs that are already known. If you are willing to help.
+Kindly PM me @Zax P. | Renz P.
+
+Programming style format: ArrayList.add(bug_name, ss);
+Normal format: Bug name, bug screenshot.
+
+Contributions:
+
+ArrayList.add("Zax P.", "1");
+
+[if(bug.known){ nope(); } else { report(); }]
+
+ArrayList.add("New Text bug", "https://media.discordapp.net/attachments/363008114079039510/377406045137534977/Screenshot_20171107-170445.jpg?width=825&height=465");
+ArrayList.add("Repeating shop text", "https://cdn.discordapp.com/attachments/363008114079039510/377101922370322443/Screenshot_20171106-152756.jpg");
+ArrayList.add("Spelling error in 99Bench", "https://cdn.discordapp.com/attachments/363008114079039510/377095690418913283/Screenshot_20171106-150043.jpg");
+ArrayList.add("Unknown bug that adds money/bitcoin", "https://cdn.discordapp.com/attachments/363008114079039510/376308293070487554/Photo_on_04-11-17_at_3.23_PM_2.jpg");
+ArrayList.add("Duplicating competitors", "https://cdn.discordapp.com/attachments/363008114079039510/376190579480199169/Screenshot_2017-11-03-17-39-04.png");
+ArrayList.add("Negative budget PC score", "https://media.discordapp.net/attachments/363008114079039510/376082632036974592/Screenshot_20171103-2056541.png?width=825&height=465");
+ArrayList.add("Double Graphics card", "https://cdn.discordapp.com/attachments/363008114079039510/375637555628081153/Screenshot_2017-11-02-14-28-12.png");
+ArrayList.add("Textures going crazy", "https://cdn.discordapp.com/attachments/363008114079039510/375616045865631744/Screenshot_20171102-060334.png");
+ArrayList.add("Can't remove Mobo", "https://cdn.discordapp.com/attachments/363008114079039510/375583064685805578/Screenshot_20171102-104958.png");
+ArrayList.add("Random lost of money and btc", "https://cdn.discordapp.com/attachments/363008114079039510/375449432180916224/Screenshot_2017-11-01-18-55-59.png");
+ArrayList.add("2009 with Satan Zs and 1300btc", "https://cdn.discordapp.com/attachments/363008114079039510/375334949965791232/Screenshot_2017-11-01-22-56-11-988_com.GamesFromGarage.PCArchitect.png");
+ArrayList.add("Small text bug", "https://cdn.discordapp.com/attachments/363008114079039510/378145809763401729/Screenshot_20171109-133342.png");
