@@ -8,6 +8,10 @@ Contributions:
 
 ArrayList.add("Zax P.", "1");
 
+Updates:
+
+1. Added more bugs [11/13/2017 : 10 : 30 P.M PH TIME]
+
 [if(bug.known){ nope(); } else { report(); }]
 
 ArrayList.add("New Text bug", "https://media.discordapp.net/attachments/363008114079039510/377406045137534977/Screenshot_20171107-170445.jpg?width=825&height=465");
@@ -23,3 +27,7 @@ ArrayList.add("Random lost of money and btc", "https://cdn.discordapp.com/attach
 ArrayList.add("2009 with Satan Zs and 1300btc", "https://cdn.discordapp.com/attachments/363008114079039510/375334949965791232/Screenshot_2017-11-01-22-56-11-988_com.GamesFromGarage.PCArchitect.png");
 ArrayList.add("Small text bug", "https://cdn.discordapp.com/attachments/363008114079039510/378145809763401729/Screenshot_20171109-133342.png");
 ArrayList.add("Black screen when opened", "https://cdn.discordapp.com/attachments/363008114079039510/378172393463611393/Screenshot_20171109-202151.png");
+ArrayList.add("Weird bug, just check screenshot", "https://media.discordapp.net/attachments/367251181413859328/379418106692370443/Screenshot_2017-11-12-20-38-19.png?width=841&height=474");
+ArrayList.add("Breaking the game by selling the first ram", "No screenshot");
+ArrayList.add("Your score benchmark bug", "https://cdn.discordapp.com/attachments/367251181413859328/379013797689556995/Screenshot_20171111-210440.png");
+ArrayList.add("DDR4 released in 2013", "https://cdn.discordapp.com/attachments/367251181413859328/378889685961015296/Screenshot_20171111-195117.jpg");
