@@ -7,27 +7,36 @@ Normal format: Bug name, bug screenshot.
 Contributions:
 
 ArrayList.add("Zax P.", "1");
+ArrayList.add("GFG Ignas", 2);
 
-Updates:
-
-1. Added more bugs [11/13/2017 : 10 : 30 P.M PH TIME]
+Tip: Ignas added the (Need more info) or etc.
 
 [if(bug.known){ nope(); } else { report(); }]
 
 ArrayList.add("New Text bug", "https://media.discordapp.net/attachments/363008114079039510/377406045137534977/Screenshot_20171107-170445.jpg?width=825&height=465");
 ArrayList.add("Repeating shop text", "https://cdn.discordapp.com/attachments/363008114079039510/377101922370322443/Screenshot_20171106-152756.jpg");
-ArrayList.add("Spelling error in 99Bench", "https://cdn.discordapp.com/attachments/363008114079039510/377095690418913283/Screenshot_20171106-150043.jpg");
-ArrayList.add("Unknown bug that adds money/bitcoin", "https://cdn.discordapp.com/attachments/363008114079039510/376308293070487554/Photo_on_04-11-17_at_3.23_PM_2.jpg");
+(Need more info)ArrayList.add("Unknown bug that adds money/bitcoin", "https://cdn.discordapp.com/attachments/363008114079039510/376308293070487554/Photo_on_04-11-17_at_3.23_PM_2.jpg");
 ArrayList.add("Duplicating competitors", "https://cdn.discordapp.com/attachments/363008114079039510/376190579480199169/Screenshot_2017-11-03-17-39-04.png");
-ArrayList.add("Negative budget PC score", "https://media.discordapp.net/attachments/363008114079039510/376082632036974592/Screenshot_20171103-2056541.png?width=825&height=465");
+(Need confirmation that this still happens)ArrayList.add("Negative budget PC score", "https://media.discordapp.net/attachments/363008114079039510/376082632036974592/Screenshot_20171103-2056541.png?width=825&height=465");
 ArrayList.add("Double Graphics card", "https://cdn.discordapp.com/attachments/363008114079039510/375637555628081153/Screenshot_2017-11-02-14-28-12.png");
 ArrayList.add("Textures going crazy", "https://cdn.discordapp.com/attachments/363008114079039510/375616045865631744/Screenshot_20171102-060334.png");
-ArrayList.add("Can't remove Mobo", "https://cdn.discordapp.com/attachments/363008114079039510/375583064685805578/Screenshot_20171102-104958.png");
-ArrayList.add("Random lost of money and btc", "https://cdn.discordapp.com/attachments/363008114079039510/375449432180916224/Screenshot_2017-11-01-18-55-59.png");
-ArrayList.add("2009 with Satan Zs and 1300btc", "https://cdn.discordapp.com/attachments/363008114079039510/375334949965791232/Screenshot_2017-11-01-22-56-11-988_com.GamesFromGarage.PCArchitect.png");
-ArrayList.add("Small text bug", "https://cdn.discordapp.com/attachments/363008114079039510/378145809763401729/Screenshot_20171109-133342.png");
-ArrayList.add("Black screen when opened", "https://cdn.discordapp.com/attachments/363008114079039510/378172393463611393/Screenshot_20171109-202151.png");
+(Need more info)ArrayList.add("Can't remove Mobo", "https://cdn.discordapp.com/attachments/363008114079039510/375583064685805578/Screenshot_20171102-104958.png");
+(Need more info)ArrayList.add("Random lost of money and btc", "https://cdn.discordapp.com/attachments/363008114079039510/375449432180916224/Screenshot_2017-11-01-18-55-59.png");
+(Need more info)ArrayList.add("2009 with Satan Zs and 1300btc", "https://cdn.discordapp.com/attachments/363008114079039510/375334949965791232/Screenshot_2017-11-01-22-56-11-988_com.GamesFromGarage.PCArchitect.png");
+(Optimisation problem, will be fixed in the future)ArrayList.add("Black screen when opened", "https://cdn.discordapp.com/attachments/363008114079039510/378172393463611393/Screenshot_20171109-202151.png");
 ArrayList.add("Weird bug, just check screenshot", "https://media.discordapp.net/attachments/367251181413859328/379418106692370443/Screenshot_2017-11-12-20-38-19.png?width=841&height=474");
 ArrayList.add("Breaking the game by selling the first ram", "No screenshot");
-ArrayList.add("Your score benchmark bug", "https://cdn.discordapp.com/attachments/367251181413859328/379013797689556995/Screenshot_20171111-210440.png");
-ArrayList.add("DDR4 released in 2013", "https://cdn.discordapp.com/attachments/367251181413859328/378889685961015296/Screenshot_20171111-195117.jpg");
+(Need more info)ArrayList.add("Your score benchmark bug", "https://cdn.discordapp.com/attachments/367251181413859328/379013797689556995/Screenshot_20171111-210440.png");
+ArrayList.add("PC wrong location", "https://cdn.discordapp.com/attachments/367251181413859328/379730169310609408/Screenshot_20171113-223137.jpg");
+ArrayList.add("Font size bug", "https://cdn.discordapp.com/attachments/367251181413859328/379894885442125824/Screenshot_20171114-100625.png");
+ArrayList.add("Lost my save on update Beta 7", "no screenshot given by reporter, TastazzOP");
+
+[bugs that need more info.]
+
+"Unkown bug that adds money/bitcoin."
+"Can't remove Mobo"
+"Random lost of money and btc."
+"2009 with SatanZs and 1300btc."
+"Your score benchmark bug"
+
+If you are the one who reported these bugs, please tell @GFG Ignas more information. Thank you - Zax P.
