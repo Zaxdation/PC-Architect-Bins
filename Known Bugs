@@ -32,6 +32,10 @@ ArrayList.add("Font size bug", "https://cdn.discordapp.com/attachments/367251181
 ArrayList.add("Lost my save on update Beta 7", "no screenshot given by reporter, TastazzOP");
 ArrayList.add("Duplicating part names on the ad of the e-shop", "https://cdn.discordapp.com/attachments/367251181413859328/380278440223571969/Screenshot_20171115-095006.png");
 ArrayList.add("Optimization issue no. 2", "https://cdn.discordapp.com/attachments/367251181413859328/380069383642284045/2017_11_10_20_50_371.png");
+ArrayList.add("White squares also known as missing textures", "https://cdn.discordapp.com/attachments/367251181413859328/382234634756292608/Screenshot_20171120-192323.png");
+ArrayList.add("Missing textures no 2.", "https://cdn.discordapp.com/attachments/367251181413859328/381569176697044992/Screenshot_2017-11-19-00-19-11.png");
+ArrayList.add("Missing textures no 3.", "https://cdn.discordapp.com/attachments/367251181413859328/381116068468621314/Screenshot_2017-11-17-18-17-55.png");
+ArrayList.add("Pricing bug.", "https://cdn.discordapp.com/attachments/367251181413859328/380716678537019392/Screenshot_20171116-145017.png");
 
 [bugs that need more info.]
 
